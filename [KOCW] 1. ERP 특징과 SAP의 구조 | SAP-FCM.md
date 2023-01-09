@@ -1,4 +1,4 @@
-## ERP란?
+## ERP란? 
 > Enterprise Resource Planning ( 전사적 자원관리 )
 > 궁극적으로 기업의 경쟁력을 강화시켜주는 역할을 하는 통합정보시스템
 
