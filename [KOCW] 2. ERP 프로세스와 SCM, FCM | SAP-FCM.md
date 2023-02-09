@@ -70,4 +70,3 @@
 > 1. ERP의 전체적인 Process를 설명할 수 있다.
 > 2. Logisics(SCM)의 구성 요소 3가지를 제시할 수 있다.
 > 3. Accounting(FCM)의 기본 module 2가지를 설명할 수 있다.
-
